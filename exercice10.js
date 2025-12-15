@@ -1,3 +1,4 @@
+const prompt = require ("prompt-sync")();
 function sommeRecursive(n) {
     if (n === 0) {
         return 0;
